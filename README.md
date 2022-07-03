@@ -1,10 +1,10 @@
 coder.
 
-
-
+https://www.abheektripathy.com
 AbheekTripathy#9859
-           https://www.abheektripathy.com
-           https://www.linkedin.com/in/abheek-tripathy-57304a221/
+
+           
+          
 
 <!---
 abheektripathy/abheektripathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
