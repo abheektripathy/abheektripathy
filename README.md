@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @abheektripathy
-- 👀 I’m interested in VFX/3D, UI/UX DESIGN, IOS DEV
-- 🌱 I’m currently learning SWIFT
-- 💞️ I’m looking to collaborate on 3D PROJECTS
-- 📫 How to reach me DISCORD AbheekTripathy#9859
-                     WEBSITE https://www.abheektripathy.com
-                     LINKEDLN https://www.linkedin.com/in/abheek-tripathy-57304a221/
+coder.
+
+
+AbheekTripathy#9859
+https://www.abheektripathy.com
+https://www.linkedin.com/in/abheek-tripathy-57304a221/
 
 <!---
 abheektripathy/abheektripathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
